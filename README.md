@@ -1,7 +1,7 @@
 # Fintech News Web App
 A basic isomorphic JavaScript application with [React](http://facebook.github.io/react/), and [Express](expressjs.com).
 
-[built from expressiso foundation](https://github.com/jcreamer898/expressiso)
+[expressiso](https://github.com/jcreamer898/expressiso) was used a foundation.
 
 ### Installation
 ```bash
